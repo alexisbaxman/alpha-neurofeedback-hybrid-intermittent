@@ -11,3 +11,10 @@ This repository contains the code and materials necessary to run the neurofeedba
 * documents — the experiment protocol as well as documents for the participants (general information, consent form, questionnaires)
 * stimuli — audio files required to run the experiment.
 * libs — third-party dependencies not redistributed here; see libs/README.md for requirement list.
+
+  
+# Data availability
+Raw participant data is not publicly available, as participant consent did not cover public data sharing.
+
+# Citation
+If you use this code, please cite: [TBD]
